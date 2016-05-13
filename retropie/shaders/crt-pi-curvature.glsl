@@ -12,7 +12,7 @@
 #define MULTISAMPLE
 #define GAMMA
 //#define FAKE_GAMMA
-//#define CURVATURE
+#define CURVATURE
 //#define SHARPER
 // MASK_TYPE: 0 = none, 1 = green/magenta, 2 = trinitron(ish)
 #define MASK_TYPE 1
